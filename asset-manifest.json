@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Delgadoc86/CalculadoraGanancia.git/static/css/main.3ffa6ac8.css",
-    "main.js": "/Delgadoc86/CalculadoraGanancia.git/static/js/main.d6ed96bb.js",
-    "static/js/453.c6e4cf74.chunk.js": "/Delgadoc86/CalculadoraGanancia.git/static/js/453.c6e4cf74.chunk.js",
-    "static/media/fondo.jpg": "/Delgadoc86/CalculadoraGanancia.git/static/media/fondo.991161d28e153386f4fa.jpg",
-    "index.html": "/Delgadoc86/CalculadoraGanancia.git/index.html",
-    "main.3ffa6ac8.css.map": "/Delgadoc86/CalculadoraGanancia.git/static/css/main.3ffa6ac8.css.map",
-    "main.d6ed96bb.js.map": "/Delgadoc86/CalculadoraGanancia.git/static/js/main.d6ed96bb.js.map",
-    "453.c6e4cf74.chunk.js.map": "/Delgadoc86/CalculadoraGanancia.git/static/js/453.c6e4cf74.chunk.js.map"
+    "main.css": "/CalculadoraGanancia/static/css/main.3ffa6ac8.css",
+    "main.js": "/CalculadoraGanancia/static/js/main.87909cac.js",
+    "static/js/453.c6e4cf74.chunk.js": "/CalculadoraGanancia/static/js/453.c6e4cf74.chunk.js",
+    "static/media/fondo.jpg": "/CalculadoraGanancia/static/media/fondo.991161d28e153386f4fa.jpg",
+    "index.html": "/CalculadoraGanancia/index.html",
+    "main.3ffa6ac8.css.map": "/CalculadoraGanancia/static/css/main.3ffa6ac8.css.map",
+    "main.87909cac.js.map": "/CalculadoraGanancia/static/js/main.87909cac.js.map",
+    "453.c6e4cf74.chunk.js.map": "/CalculadoraGanancia/static/js/453.c6e4cf74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ffa6ac8.css",
-    "static/js/main.d6ed96bb.js"
+    "static/js/main.87909cac.js"
   ]
 }
