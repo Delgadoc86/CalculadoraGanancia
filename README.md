@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Calculadora de Porcentajes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una calculadora de precios que permite a los usuarios calcular el precio por kilo, por 100 gramos o por unidad, teniendo en cuenta un porcentaje de ganancia. Es ideal para aquellos que necesitan hacer cálculos de precios de manera rápida y sencilla.
 
-## Available Scripts
+## Características
 
-In the project directory, you can run:
+- Calcula el precio total basado en el precio de venta y el porcentaje de ganancia.
+- Opciones para calcular por kilos, por 100 gramos o por unidades.
+- Interfaz fácil de usar con entrada de datos y resultados claros.
+- Función para restablecer todos los campos.
 
-### `npm start`
+## Requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Node.js
+- npm (Node Package Manager)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalación
 
-### `npm test`
+1. Clona el repositorio:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Munual de para el usuario
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Manual de Usuario Sencillo
 
-### `npm run eject`
+#### Manual de Usuario para la Calculadora de Porcentajes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Objetivo:**
+La Calculadora de Porcentajes permite calcular el precio de productos en función del precio total, el porcentaje de ganancia y la cantidad de kilos o unidades.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Cómo usar la calculadora:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Abre la aplicación**.
+2. **Introduce el Precio Total:**
+   - Escribe el precio total del producto (ejemplo: 1600).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Introduce el Porcentaje de Ganancia:**
+   - Escribe el porcentaje de ganancia que deseas aplicar (ejemplo: 20 para un 20%).
 
-## Learn More
+4. **Selecciona el Modo de Cálculo:**
+   - Activa las opciones avanzadas si deseas elegir cómo calcular:
+     - **Por Kilo:** Si quieres calcular el precio por kilo.
+     - **Por 100 Gramos:** Si deseas calcular el precio por cada 100 gramos.
+     - **Por Unidades:** Si prefieres calcular el precio por cada unidad.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. **Ingresa la Cantidad:**
+   - Si seleccionaste "Por Kilo" o "Por 100 Gramos", ingresa la cantidad de kilos (ejemplo: 10).
+   - Si seleccionaste "Por Unidades", ingresa la cantidad de unidades (ejemplo: 10).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. **Haz clic en "Calcular":**
+   - La calculadora mostrará el precio por el modo seleccionado y el precio unitario con ganancia.
 
-### Code Splitting
+7. **Si necesitas comenzar de nuevo, haz clic en "Borrar":**
+   - Esto restablecerá todos los campos.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Ejemplo:**
+- Si introduces un precio total de 1600, un porcentaje de ganancia del 20%, seleccionas "Por Kilo" y pones 10 kilos, al hacer clic en "Calcular", verás el resultado del precio por kilo y el precio unitario con la ganancia aplicada.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Esto debería proporcionar una guía clara sobre el funcionamiento de la calculadora y cómo utilizarla efectivamente. Si necesitas más detalles o ajustes, no dudes en decírmelo.
