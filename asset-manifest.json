@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CalculadoraGanancia/static/css/main.3ffa6ac8.css",
-    "main.js": "/CalculadoraGanancia/static/js/main.87909cac.js",
+    "main.css": "/CalculadoraGanancia/static/css/main.26535081.css",
+    "main.js": "/CalculadoraGanancia/static/js/main.dca27bcf.js",
     "static/js/453.c6e4cf74.chunk.js": "/CalculadoraGanancia/static/js/453.c6e4cf74.chunk.js",
     "static/media/fondo.jpg": "/CalculadoraGanancia/static/media/fondo.991161d28e153386f4fa.jpg",
     "index.html": "/CalculadoraGanancia/index.html",
-    "main.3ffa6ac8.css.map": "/CalculadoraGanancia/static/css/main.3ffa6ac8.css.map",
-    "main.87909cac.js.map": "/CalculadoraGanancia/static/js/main.87909cac.js.map",
+    "main.26535081.css.map": "/CalculadoraGanancia/static/css/main.26535081.css.map",
+    "main.dca27bcf.js.map": "/CalculadoraGanancia/static/js/main.dca27bcf.js.map",
     "453.c6e4cf74.chunk.js.map": "/CalculadoraGanancia/static/js/453.c6e4cf74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ffa6ac8.css",
-    "static/js/main.87909cac.js"
+    "static/css/main.26535081.css",
+    "static/js/main.dca27bcf.js"
   ]
 }
